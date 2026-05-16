@@ -1,4 +1,4 @@
-# 💰 Finance Suite
+# Finance Suite
 
 Finance Suite is a simple, fast, and lightweight Android application designed to perform basic banking financial calculations with a clean and user-friendly interface.
 
@@ -8,7 +8,8 @@ This repository contains the **release APK files only**.
 
 ## 📱 Features
 
-- Simple and clean UI
+- Simple finance calculator (Banking)
+- Clean UI design
 - Fast financial calculations
 - Lightweight and smooth performance
 - Easy to use interface
@@ -20,7 +21,7 @@ This repository contains the **release APK files only**.
 
 Download the latest version from the **Releases** section:
 
-👉 https://github.com/sadman-rx/Finance_Suite_Releases/releases
+👉 https://github.com/sadman-rx/Finance_Suite_Releases/releases/tag/v1.0
 
 ---
 
@@ -44,7 +45,7 @@ Download the latest version from the **Releases** section:
 
 ## 📌 Requirements
 
-- Android 5.0 (API 21) or higher
+- Android 6.0 (API 21) or higher
 
 ---
 
@@ -52,21 +53,13 @@ Download the latest version from the **Releases** section:
 
 This app does not collect or share any personal data.
 
----
-
-## 🚀 Future Updates
-
-Planned improvements:
-- More financial tools
-- UI enhancements
-- Better performance optimization
-- Additional calculator modes
 
 ---
 
 ## 👨‍💻 Developer
 
-Created by **Sadman Hossain**
+**Sadman Hossain**
+**sadmanhossainwork@gmail.com**
 
 ---
 
